@@ -7,3 +7,5 @@ after creating repo on github, copying ssh, open terminal
 - git add *filename*
 - commit the work with git commit -m *FILE*
 - push work with git push
+- git log will display the change log
+- to reset pushes, git reset --hard *copy/paste the commit log number
