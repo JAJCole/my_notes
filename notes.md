@@ -9,3 +9,6 @@ after creating repo on github, copying ssh, open terminal
 - push work with git push
 - git log will display the change log
 - to reset pushes, git reset --hard *copy/paste the commit log number
+
+
+- *reminder* to create a file it is touch *filename.filetype*
