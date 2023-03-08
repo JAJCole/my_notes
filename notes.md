@@ -4,5 +4,6 @@
 after creating repo on github, copying ssh, open terminal
 - git clone *ssh* then enter pw
 - git status
+- git add *filename*
 - commit the work with git commit -m *FILE*
 - push work with git push
